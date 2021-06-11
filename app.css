@@ -1,0 +1,14 @@
+h1 {
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+}
+
+.pokemon {
+  display: inline-block;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+}
+
+.pokemon img {
+  display: block;
+}
